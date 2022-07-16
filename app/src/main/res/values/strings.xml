@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercicio Layouts</string>
+    <string name="label_button_main">Verso do Cartão</string>
+    <string name="phone_number">(99)99999-9999</string>
+    <string name="email_address">test@test.com</string>
+    <string name="address_location">123 Anywhere St., Any City, ST 12345</string>
+    <string name="subtitle">Mobile Developer</string>
+    <string name="name_title">André Luiz</string>
+    <string name="backtofrontcard">Voltar</string>
+</resources>
